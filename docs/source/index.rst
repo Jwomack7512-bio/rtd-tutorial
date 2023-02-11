@@ -1,7 +1,7 @@
 Welcome to BioModMes's documentation!
 ===================================
 
-**BioModME** (**Bio**\ logical\ **Mod**eling **M**ade **E**asy) is a web-based application build on the Rshiny framework.
+**BioModME** (**Bio**\ logical\ **Mod**\eling\ **M**\ade\ **E**\asy\) is a web-based application build on the Rshiny framework.
 It simplifies the process of building ordinary differential equation (ODE) based biological models without the user needing to
 have programming knowledge. 
 
