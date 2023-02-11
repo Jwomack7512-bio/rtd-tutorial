@@ -21,5 +21,4 @@ Contents
 
    usage
    installation
-   tutorials
    api
