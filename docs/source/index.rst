@@ -1,4 +1,4 @@
-Welcome to BioModMes's documentation!
+Welcome to BioModME's documentation!
 ===================================
 
 **BioModME** (**Bio**\ logical **Mod**\eling **M**\ade **E**\asy) is a web-based application build on the Rshiny framework.
