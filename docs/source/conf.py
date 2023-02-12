@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'BioModME'
 copyright = '2021, Graziella'
-author = 'Graziella'
+author = 'Justin Womack'
 
 release = '0.1'
 version = '0.1.0'
